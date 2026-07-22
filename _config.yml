@@ -25,7 +25,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://martinarepetto.com" # the base hostname and protocol for the site
 twitter_username: jekyllrb
 github_username:  jekyll
-linkedin_url: "linkedin.com/in/martinarepetto1?originalSubdomain=au"
+linkedin_url: "https://www.linkedin.com/in/martinarepetto1"
 email: "m.repetto@unimelb.edu.au"
 x_url: "https://twitter.com/MartiRepetto1"
 
