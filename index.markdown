@@ -6,7 +6,7 @@ title: Home
 {% assign t = site.data.en %}
 
 <div class="min-h-[60vh] flex flex-col justify-center gap-6">
-  <div class="flex gap-2">
+  <div class="flex flex-col-reverse items-center gap-6 text-center md:flex-row md:items-start md:gap-2 md:text-left">
   <div>
     <h1 class="my-2 text-3xl md:text-4xl font-semibold tracking-tight text-slate-800">
       {{ t.home.title }}
@@ -21,11 +21,11 @@ title: Home
 
   <img
     src="{{ '/assets/images/marti.jpg' | relative_url }}"
-    class="size-48 rounded-full object-cover"
+    class="size-48 shrink-0 rounded-full object-cover"
   />
   </div>
 
-  <div class="flex flex-wrap gap-3">
+  <div class="flex flex-wrap justify-center gap-3 md:justify-start">
     <a href="{{ '/research/' | relative_url }}"
        class="inline-flex items-center justify-center rounded-full bg-sky-700 px-5 py-2.5 text-sm font-medium text-white hover:bg-sky-800">
       View research

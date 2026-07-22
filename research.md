@@ -29,6 +29,11 @@ permalink: /research/
           </p>
           <p class="text-slate-600 italic">
             {{ paper.subheading }}
+            {% if paper.link %}
+              <a href="{{ paper.link }}" class="not-italic ml-3 font-semibold text-sky-700 hover:underline" target="_blank" rel="noopener noreferrer">
+                Article Link
+              </a>
+            {% endif %}
           </p>
           <p class="text-sm text-slate-600 leading-relaxed">
             {{ paper.description }}
@@ -65,31 +70,18 @@ permalink: /research/
 
   <section class="space-y-3">
     <h2 class="text-xl font-semibold text-slate-900">
-      {{ t.research.media_coverage.title }}
+      {{ t.research.other_reports.title }}
     </h2>
     <ul class="marker:text-sky-600 marker:text-base list-disc ml-6 mt-2 text-slate-700 text-sm space-y-1">
-      {% for article in site.data.en.research.media_coverage.coverage %}
+      {% for item in site.data.en.research.other_reports.items %}
         <li class="space-y-2 pl-4">
           <p class="text-slate-900">
-            {{ article.name }}
-            <a href="{{ article.link }}" class="text-sky-700 hover:underline" target="_blank">
-              {{ t.research.media_coverage.cta }}
-            </a>
-          </p>
-        </li>
-      {% endfor %}
-    </ul>
-  </section>
-
-  <section class="space-y-3">
-    <h2 class="text-xl font-semibold text-slate-900">
-      {{ t.research.chapters.title }}
-    </h2>
-    <ul class="marker:text-sky-600 marker:text-base list-disc ml-6 mt-2 text-slate-700 text-sm space-y-1">
-      {% for point in site.data.en.research.chapters.points %}
-        <li class="space-y-2 pl-4">
-          <p class="text-slate-900">
-            {{ point }}
+            {{ item.text }}
+            {% if item.link %}
+              <a href="{{ item.link }}" class="text-sky-700 hover:underline" target="_blank" rel="noopener noreferrer">
+                {{ item.link_text }}
+              </a>
+            {% endif %}
           </p>
         </li>
       {% endfor %}

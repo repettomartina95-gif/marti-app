@@ -17,46 +17,48 @@ research:
   publications:
     title: Publications
     papers:
-      - name: "Pandemic Shocks and Unintended Healthcare Disruptions: Chronic Patients During COVID-19"
-        coauthors: with Claudio Lucifora & Antonio Russo
-        subheading: Accepted for publication in Empirical Economics
-        description: |
-          This paper investigates the effects of pandemic shocks on outpatient care utilization among chronic patients aged 50 and older in Italy. Using administrative data merged with excess deaths as a proxy for pandemic severity, we estimate individual-level fixed-effects models to account for confounding factors and unobserved heterogeneity. We find that increases in excess deaths significantly reduce the probability that chronic patients receive at least one medical treatment per month. The decline is stronger for patients with comorbidities, who show a greater prevalence-response elasticity. These findings suggest that pandemic shocks altered healthcare-seeking behavior even among patients previously considered to have inelastic demand.
       - name: "Gender Mix Prescription: Is it the Cure for Job Satisfaction and Retention?"
         coauthors: with Margherita Agnoletto
-        subheading: page 102786, 2025. ISSN 0927-5371 in Labour Economics
+        subheading: "Labour Economics, 2025"
+        link: "https://doi.org/10.1016/j.labeco.2025.102786"
         description: |
           This paper investigates the effects of gender composition within general practices on overall job satisfaction, its associated lower-level domains, service quality and retention rates of general practitioners (GPs). Using data from the nationally representative Medicine in Australia: Balancing Employment and Life (MABEL) panel, we estimate an individual fixed-effects model and address potential endogeneity in several ways. We show that an increase in the female share of GPs within a practice positively influences overall job satisfaction and various well-being components, with female GPs driving the effects. However, increasing the female share negatively affects several domains of job satisfaction if it reduces gender diversity, highlighting the importance of maintaining a balanced gender composition within practices. To obtain an equivalent effect on overall job satisfaction, gross annual earnings would need to increase by approximately AU$406,400. Additionally, our findings show positive effects on retention intentions. Potential mechanisms include a greater understanding of work-life balance among colleagues, stronger workplace support, and reduced job-related stress.
+      - name: "Pandemic Shocks and Unintended Healthcare Disruptions: Chronic Patients During COVID-19"
+        coauthors: with Claudio Lucifora & Antonio Russo
+        subheading: "Empirical Economics, 2026"
+        link: "https://doi.org/10.1007/s00181-025-02851-9"
+        description: |
+          This paper investigates the effects of pandemic shocks on outpatient care utilization among chronic patients aged 50 and older in Italy. We merge administrative data on outpatient services with information on excess deaths to proxy the severity of pandemic shocks during COVID-19. To account for confounding factors and individual-level unobserved heterogeneity, we implement an individual-level fixed-effects estimator. Our results indicate that excess deaths are associated with a decline in the probability of receiving at least one medical treatment per month. A heterogeneity analysis reveals that the reduction is more substantial for patients with comorbidities, who exhibit a larger prevalence-response elasticity, indicating that sicker patients are more sensitive to pandemic severity. These findings suggest that pandemic shocks influence healthcare-seeking behaviour even among patients previously thought to have inelastic demand.
       - name: "Big Five Personality Traits and Retirement Decisions"
         coauthors: with Claudio Lucifora
-        subheading: 2021, Labour
+        subheading: "Labour, 2021"
+        link: "https://doi.org/10.1111/labr.12210"
         description: |
           We estimate the effect of the Big Five personality traits on the retirement decisions of individuals aged between 50 and 80 years in fourteen European countries, using wave 7 from the SHARE data. We investigate the probability of retirement and a measure of the distance between actual retirement and ordinary retirement age. Overall, we find that personality affects retirement decisions, and the effects are similar across gender. Openness to experience, conscientiousness and extraversion are generally associated with a delay in retirement decisions, whereas neuroticism anticipates the exit from the labour market.
   work_in_progress:
     title: Work in Progress
     papers:
+      - name: "When Female Doctors Fly In: Access to Female Physicians and Health Care Utilisation"
+        description: |
+          Policies addressing physician shortages typically target aggregate supply, but workforce gender composition may also shape which health needs get met in underserved communities. I study a program that periodically sends a visiting female GP to small Australian towns where every other practising doctor is male, with visit dates set by her own availability rather than local demand: a unique setting in which the same woman can be observed choosing between a female and a male provider over time, linked at the patient level to her Medicare and pharmaceutical records. Women sort sharply into care with the visiting GP: a consultation with her is nearly four times as likely to run long, and the same woman is roughly four times more likely to be prescribed hormonal medication, while her likelihood of receiving cardiovascular or mental health treatment is unchanged. Preventive care also increases: a woman who sees the visiting GP is over ten times more likely to be screened that day. A difference-in-differences design shows these effects extend beyond direct users: cervical screening also rises among women who never see the visiting GP, consistent with broader changes in screening behaviour once the program becomes available.
+      - name: "From Awareness to Action: Help-Seeking and Femicides after Gender-Based Violence Campaigns in Italy"
+        coauthors: with Margherita Agnoletto
+        description: |
+          Awareness campaigns are among the most widely deployed policy responses to gender-based violence, yet systematic evidence on their behavioural effects remains scarce. This paper examines whether variation in campaign intensity around the International Day for the Elimination of Violence against Women (November 25) affects help-seeking behaviour and femicide rates in Italy. We exploit the unusually high salience of the 2023 campaign in a difference-in-differences design that compares outcomes before and after November 25 across years of varying intensity. Helpline calls to the national 1522 anti-violence line increase by approximately 160 percent in the weeks following the high-intensity campaign, with the effect concentrated among non-victim callers. Femicides decline by approximately 61 percent during high-intensity campaign months. Event-study specifications reveal no differential pre-trends, and placebo tests yield null effects for alternative treatment years, supporting a causal interpretation of the estimates. These findings suggest that recurring awareness campaigns can be effective tools for gender-based violence prevention.
       - name: "When Dads Can't Get on the Beers: The Positive Impact of COVID-19 on Parental Drinking Behaviour"
         coauthors: with Susan Mendez, Susan Sawyer & Julie Moschion
         description: |
-          This study investigates the effects of the COVID-19 pandemic on alcohol consumption among parents. We use data from the Victorian Adolescent Health Cohort Study (VAHCS) with detailed information on alcohol consumption. Our empirical strategy follows a difference-in-difference design that relies on quasi-random variation in the timing of interviews. Our results show a significant decline in heavy drinking among parents, driven primarily by fathers. This reduction strengthens with prolonged lockdown exposure. Additionally, fathers exhibit a reduction in depressive symptoms and a decrease in cigarette use. Descriptive text analysis indicates that spending more time with family is the most frequently mentioned positive aspect of the lockdowns. This increased family engagement may have contributed to reduced drinking, as stronger family engagement may encourage healthier behaviours in the home environment or it can reduce opportunities for alcohol consumption.
-      - name: "The Impact of Awareness: Evidence from Gender-Based Violence Campaigns in Italy"
-        coauthors: with Margherita Agnoletto
-        description: Preliminary findings
-      - name: "Does the Gender of Physicians Affect Healthcare Utilisation?"
-        description: Preliminary findings
-  media_coverage:
-    title: Media Coverage
-    cta: →
-    coverage:
-      - name: Pursuit Article on Women's Health Funding
+          This study investigates the effects of the COVID-19 pandemic on alcohol consumption among parents. We use data from the Victorian Adolescent Health Cohort Study (VAHCS) with detailed information on alcohol consumption. Our empirical strategy follows a difference-in-differences design that relies on quasi-random variation in the timing of interviews. Our results show a significant decline in heavy drinking among parents, driven primarily by fathers. This reduction strengthens with prolonged lockdown exposure. Additionally, fathers exhibit a reduction in depressive symptoms and a decrease in cigarette use. Descriptive text analysis indicates that spending more time with family is the most frequently mentioned positive aspect of the lockdowns. This increased family engagement may have contributed to reduced drinking, as stronger family engagement may encourage healthier behaviours in the home environment or reduce opportunities for alcohol consumption.
+  other_reports:
+    title: Other Reports and Publications
+    items:
+      - text: "Chapters 1.1, 1.2 and 1.5 in <em>I territori e gli obiettivi di sviluppo sostenibile, Rapporto ASviS 2021</em>, 2021."
+      - text: "Contributions in <em>I territori e gli obiettivi di sviluppo sostenibile, Rapporto ASviS 2020</em>, 2020."
+      - text: "SDG4 and SDG8 in <em>Rapporto Lombardia 2020</em>, ISBN 978-88-6250-809-4, pp. 113–129 and 183–201, 2020."
+      - text: "Contributions in <em>Alla ricerca del benessere: desideri, timori, rappresentazioni della Milano che sarà. Presentazione della ricerca Policy Delphi del laboratorio sul futuro Milano 2046</em>, Comune di Milano, 2020."
+      - text: "Pursuit article on women's health funding —"
         link: "https://pursuit.unimelb.edu.au/articles/could-we-be-entering-a-new-era-in-womens-health-funding?in_c=articlelistingblock"
-  chapters:
-    title: Chapters in reports and books (in Italian)
-    points:
-      - "Chapter 1.1, 1.2, 1.5 in I territori e gli obiettivi di sviluppo sostenibile, Rapporto ASviS 2021, 2021"
-      - "Contributions in I territori e gli obiettivi di sviluppo sostenibile, Rapporto ASviS 2020, 2020"
-      - "SDG4 and SDG8 in Rapporto Lombardia 2020, ISBN 978-88-6250-809-4, 113-129, 183-201, 2020"
-      - "Contributions in Alla ricerca del benessere: desideri, timori, rappresentazioni della Milano che sar`a. Presentazione della ricerca Policy Delphi del laboratorio sul futuro milano2046, Comune di Milano, 2020"
+        link_text: "read the article"
   
 teaching:
   title: Teaching

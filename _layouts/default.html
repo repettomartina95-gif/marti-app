@@ -16,7 +16,7 @@
     {% assign t = site.data.en %}
     <header class="border-b border-slate-200 bg-white">
       <div class="max-w-5xl mx-auto flex items-center justify-between px-4 py-4">
-        <div>
+        <div class="hidden md:block">
           <a href="{{ '/' | relative_url }}" class="text-sky-700 text-lg font-semibold tracking-tight">
             {{ site.title }}
           </a>
@@ -27,7 +27,7 @@
           {% endif %}
         </div>
 
-        <nav class="flex gap-4 text-sm">
+        <nav class="flex w-full justify-between gap-4 text-sm md:w-auto">
           <a href="{{ '/' | relative_url }}" class="hover:text-sky-700">{{ t.nav.home }}</a>
           <a href="{{ '/research/' | relative_url }}" class="hover:text-sky-700">{{ t.nav.research }}</a>
           <a href="{{ '/teaching/' | relative_url }}" class="hover:text-sky-700">{{ t.nav.teaching }}</a>
