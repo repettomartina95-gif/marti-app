@@ -17,12 +17,6 @@ research:
   publications:
     title: Publications
     papers:
-      - name: "Gender Mix Prescription: Is it the Cure for Job Satisfaction and Retention?"
-        coauthors: with Margherita Agnoletto
-        subheading: "Labour Economics, 2025"
-        link: "https://doi.org/10.1016/j.labeco.2025.102786"
-        description: |
-          This paper investigates the effects of gender composition within general practices on overall job satisfaction, its associated lower-level domains, service quality and retention rates of general practitioners (GPs). Using data from the nationally representative Medicine in Australia: Balancing Employment and Life (MABEL) panel, we estimate an individual fixed-effects model and address potential endogeneity in several ways. We show that an increase in the female share of GPs within a practice positively influences overall job satisfaction and various well-being components, with female GPs driving the effects. However, increasing the female share negatively affects several domains of job satisfaction if it reduces gender diversity, highlighting the importance of maintaining a balanced gender composition within practices. To obtain an equivalent effect on overall job satisfaction, gross annual earnings would need to increase by approximately AU$406,400. Additionally, our findings show positive effects on retention intentions. Potential mechanisms include a greater understanding of work-life balance among colleagues, stronger workplace support, and reduced job-related stress.
       - name: "Pandemic Shocks and Unintended Healthcare Disruptions: Chronic Patients During COVID-19"
         coauthors: with Claudio Lucifora & Antonio Russo
         subheading: "Empirical Economics, 2026"
@@ -52,13 +46,13 @@ research:
   other_reports:
     title: Other Reports and Publications
     items:
+      - text: "Pursuit article on women's health funding —"
+        link: "https://pursuit.unimelb.edu.au/articles/could-we-be-entering-a-new-era-in-womens-health-funding?in_c=articlelistingblock"
+        link_text: "read the article"
       - text: "Chapters 1.1, 1.2 and 1.5 in <em>I territori e gli obiettivi di sviluppo sostenibile, Rapporto ASviS 2021</em>, 2021."
       - text: "Contributions in <em>I territori e gli obiettivi di sviluppo sostenibile, Rapporto ASviS 2020</em>, 2020."
       - text: "SDG4 and SDG8 in <em>Rapporto Lombardia 2020</em>, ISBN 978-88-6250-809-4, pp. 113–129 and 183–201, 2020."
       - text: "Contributions in <em>Alla ricerca del benessere: desideri, timori, rappresentazioni della Milano che sarà. Presentazione della ricerca Policy Delphi del laboratorio sul futuro Milano 2046</em>, Comune di Milano, 2020."
-      - text: "Pursuit article on women's health funding —"
-        link: "https://pursuit.unimelb.edu.au/articles/could-we-be-entering-a-new-era-in-womens-health-funding?in_c=articlelistingblock"
-        link_text: "read the article"
   
 teaching:
   title: Teaching
@@ -67,8 +61,8 @@ teaching:
       location: Faculty of Business and Economics, University of Melbourne
       time: "2022-current"
       subjects: 
-        - name: Econometrics 2 (ECOM30002)
         - name: Introductory Microeconomics (ECON10004)
+        - name: Econometrics 2 (ECOM30002)
         - name: Quantitative Methods 1 (ECON10005)
     - position: One time lecturer
       location: Faculty of Business and Economics, University of Melbourne
@@ -89,33 +83,49 @@ teaching:
 seminars:
   title: Seminars & Conferences
   years:
-  - year: "2025"
-    items:
-      - name: "Australian Gender Economics Workshop (AGEW)"
-        location: "University of Wollongong"
-      - name: "Annual Conference of the European Society for Population Economics (ESPE)"
-        location: "Naples"
+    - year: "2025"
+      items:
+        - name: "Australian Gender Economics Workshop (AGEW)"
+          location: "University of Wollongong"
+        - name: "Annual Conference of the European Society for Population Economics (ESPE)"
+          location: "Naples"
+        - name: "Annual Conference of the American Society of Health Economists (ASHEcon)"
+          location: "Nashville"
+        - name: "Australasian Workshop on Econometrics and Health Economics (AWEHE)"
+          location: "Kuala Lumpur"
+        - name: "International Health Economics Association (IHEA) Congress"
+          location: "Bali"
+        - name: "Annual Australian Health Economics Doctoral (AHED) Workshop and Annual Australian Health Economics Society (AHES) Conference"
+          location: "Canberra"
 
-  - year: "2024"
-    items:
-      - name: "AASLE 2024"
-        location: "Bangkok"
-      - name: "CHE Internal Seminar, Centre for Health Economics"
-        location: "Monash University"
+    - year: "2024"
+      items:
+        - name: "AASLE 2024"
+          location: "Bangkok"
+        - name: "5th Meeting of the Asian Workshop on Econometrics and Health Economics"
+          location: "Guangzhou, China"
+        - name: "CHE Internal Seminar, Centre for Health Economics"
+          location: "Monash University"
+        - name: "PhD Brown Bag"
+          location: "Department of Economics, University of Melbourne"
+        - name: "FBE GR Celebration Event Poster Competition"
+          location: "University of Melbourne"
 
-  - year: "2023"
-    items:
-      - name: "PhD Brown Bag"
-        location: "Department of Economics, University of Melbourne"
-      - name: "Summer school in Applied Health Econometrics and Health Policy (AHEHP)"
-        location: "University of Bergamo"
+    - year: "2023"
+      items:
+        - name: "PhD Brown Bag"
+          location: "Department of Economics, University of Melbourne"
+        - name: "Summer School in Applied Health Econometrics and Health Policy (AHEHP)"
+          location: "University of Bergamo"
+        - name: "Centro di Ricerca sul Lavoro “Carlo Dell’Aringa” (CRILDA) Seminar"
+          location: "Università Cattolica del Sacro Cuore, Milan"
 
-  - year: "2022"
-    items:
-      - name: "13th Annual Workshop, Health Economics Group"
-        location: "University of Melbourne"
-      - name: "The Workshop on the Economics of Health"
-        location: "Monash University"
+    - year: "2022"
+      items:
+        - name: "13th Annual Workshop, Health Economics Group"
+          location: "University of Melbourne"
+        - name: "The Workshop on the Economics of Health"
+          location: "Monash University"
 
 
 cv:
