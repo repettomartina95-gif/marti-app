@@ -17,30 +17,33 @@ research:
   publications:
     title: Publications
     papers:
-      - name: "Gender Mix Prescription: Is it the Cure for Job Satisfaction and Retention?"
-        coauthors: with Margherita Agnoletto
-        subheading: "Labour Economics, 2025"
-        link: "https://doi.org/10.1016/j.labeco.2025.102786"
-        description: |
-          This paper investigates the effects of gender composition within general practices on overall job satisfaction, its associated lower-level domains, service quality and retention rates of general practitioners (GPs). Using data from the nationally representative Medicine in Australia: Balancing Employment and Life (MABEL) panel, we estimate an individual fixed-effects model and address potential endogeneity in several ways. We show that an increase in the female share of GPs within a practice positively influences overall job satisfaction and various well-being components, with female GPs driving the effects. However, increasing the female share negatively affects several domains of job satisfaction if it reduces gender diversity, highlighting the importance of maintaining a balanced gender composition within practices. To obtain an equivalent effect on overall job satisfaction, gross annual earnings would need to increase by approximately AU$406,400. Additionally, our findings show positive effects on retention intentions. Potential mechanisms include a greater understanding of work-life balance among colleagues, stronger workplace support, and reduced job-related stress.
       - name: "Pandemic Shocks and Unintended Healthcare Disruptions: Chronic Patients During COVID-19"
-        coauthors: with Claudio Lucifora & Antonio Russo
+        coauthors: "with Claudio Lucifora & Antonio Russo"
         subheading: "Empirical Economics, 2026"
         link: "https://doi.org/10.1007/s00181-025-02851-9"
         description: |
           This paper investigates the effects of pandemic shocks on outpatient care utilization among chronic patients aged 50 and older in Italy. We merge administrative data on outpatient services with information on excess deaths to proxy the severity of pandemic shocks during COVID-19. To account for confounding factors and individual-level unobserved heterogeneity, we implement an individual-level fixed-effects estimator. Our results indicate that excess deaths are associated with a decline in the probability of receiving at least one medical treatment per month. A heterogeneity analysis reveals that the reduction is more substantial for patients with comorbidities, who exhibit a larger prevalence-response elasticity, indicating that sicker patients are more sensitive to pandemic severity. These findings suggest that pandemic shocks influence healthcare-seeking behaviour even among patients previously thought to have inelastic demand.
+
+      - name: "Gender Mix Prescription: Is it the Cure for Job Satisfaction and Retention?"
+        coauthors: "with Margherita Agnoletto"
+        subheading: "Labour Economics, 2025"
+        link: "https://doi.org/10.1016/j.labeco.2025.102786"
+        description: |
+          This paper investigates the effects of gender composition within general practices on overall job satisfaction, its associated lower-level domains, service quality and retention rates of general practitioners (GPs). Using data from the nationally representative Medicine in Australia: Balancing Employment and Life (MABEL) panel, we estimate an individual fixed-effects model and address potential endogeneity in several ways. We show that an increase in the female share of GPs within a practice positively influences overall job satisfaction and various well-being components, with female GPs driving the effects. However, increasing the female share negatively affects several domains of job satisfaction if it reduces gender diversity, highlighting the importance of maintaining a balanced gender composition within practices. To obtain an equivalent effect on overall job satisfaction, gross annual earnings would need to increase by approximately AU$406,400. Additionally, our findings show positive effects on retention intentions. Potential mechanisms include a greater understanding of work-life balance among colleagues, stronger workplace support, and reduced job-related stress.
+
       - name: "Big Five Personality Traits and Retirement Decisions"
-        coauthors: with Claudio Lucifora
+        coauthors: "with Claudio Lucifora"
         subheading: "Labour, 2021"
         link: "https://doi.org/10.1111/labr.12210"
         description: |
           We estimate the effect of the Big Five personality traits on the retirement decisions of individuals aged between 50 and 80 years in fourteen European countries, using wave 7 from the SHARE data. We investigate the probability of retirement and a measure of the distance between actual retirement and ordinary retirement age. Overall, we find that personality affects retirement decisions, and the effects are similar across gender. Openness to experience, conscientiousness and extraversion are generally associated with a delay in retirement decisions, whereas neuroticism anticipates the exit from the labour market.
+
   work_in_progress:
     title: Work in Progress
     papers:
       - name: "When Female Doctors Fly In: Access to Female Physicians and Health Care Utilisation"
         description: |
-          Policies addressing physician shortages typically target aggregate supply, but workforce gender composition may also shape which health needs get met in underserved communities. I study a program that periodically sends a visiting female GP to small Australian towns where every other practising doctor is male, with visit dates set by her own availability rather than local demand: a unique setting in which the same woman can be observed choosing between a female and a male provider over time, linked at the patient level to her Medicare and pharmaceutical records. Women sort sharply into care with the visiting GP: a consultation with her is nearly four times as likely to run long, and the same woman is roughly four times more likely to be prescribed hormonal medication, while her likelihood of receiving cardiovascular or mental health treatment is unchanged. Preventive care also increases: a woman who sees the visiting GP is over ten times more likely to be screened that day. A difference-in-differences design shows these effects extend beyond direct users: cervical screening also rises among women who never see the visiting GP, consistent with broader changes in screening behaviour once the program becomes available.
+          Policies addressing physician shortages typically target aggregate supply without considering that the gender composition of the local health workforce may also affect which health needs get met. I study this using a program that periodically sends a visiting female GP to rural towns where all resident doctors are male, comparing each woman's consultations with the female GP to her own consultations with local male providers. The same woman is roughly four times as likely to receive genitourinary or hormonal prescriptions when consulting the female GP, against a baseline of 6 percent, and more than ten times as likely to be screened for cervical cancer, against a baseline of 1 percent. In contrast, prescribing for non-gender-sensitive conditions and the use of routine pathology tests are unchanged. Complementary difference-in-differences estimates show that prescribing effects are concentrated among program users. Consultations with the female GP are nearly four times as likely to be long consultations, and placebo visiting male providers generate no comparable response. The pattern is consistent with women bringing gender-sensitive concerns to the female GP that they are less likely to raise with local male providers. These findings imply that physician supply and workforce gender composition are not equivalent policy levers.
       - name: "From Awareness to Action: Help-Seeking and Femicides after Gender-Based Violence Campaigns in Italy"
         coauthors: with Margherita Agnoletto
         description: |
@@ -52,13 +55,13 @@ research:
   other_reports:
     title: Other Reports and Publications
     items:
+      - text: "Pursuit article on women's health funding —"
+        link: "https://pursuit.unimelb.edu.au/articles/could-we-be-entering-a-new-era-in-womens-health-funding?in_c=articlelistingblock"
+        link_text: "read the article"
       - text: "Chapters 1.1, 1.2 and 1.5 in <em>I territori e gli obiettivi di sviluppo sostenibile, Rapporto ASviS 2021</em>, 2021."
       - text: "Contributions in <em>I territori e gli obiettivi di sviluppo sostenibile, Rapporto ASviS 2020</em>, 2020."
       - text: "SDG4 and SDG8 in <em>Rapporto Lombardia 2020</em>, ISBN 978-88-6250-809-4, pp. 113–129 and 183–201, 2020."
       - text: "Contributions in <em>Alla ricerca del benessere: desideri, timori, rappresentazioni della Milano che sarà. Presentazione della ricerca Policy Delphi del laboratorio sul futuro Milano 2046</em>, Comune di Milano, 2020."
-      - text: "Pursuit article on women's health funding —"
-        link: "https://pursuit.unimelb.edu.au/articles/could-we-be-entering-a-new-era-in-womens-health-funding?in_c=articlelistingblock"
-        link_text: "read the article"
   
 teaching:
   title: Teaching
@@ -67,8 +70,8 @@ teaching:
       location: Faculty of Business and Economics, University of Melbourne
       time: "2022-current"
       subjects: 
-        - name: Econometrics 2 (ECOM30002)
         - name: Introductory Microeconomics (ECON10004)
+        - name: Econometrics 2 (ECOM30002)
         - name: Quantitative Methods 1 (ECON10005)
     - position: One time lecturer
       location: Faculty of Business and Economics, University of Melbourne
@@ -89,33 +92,49 @@ teaching:
 seminars:
   title: Seminars & Conferences
   years:
-  - year: "2025"
-    items:
-      - name: "Australian Gender Economics Workshop (AGEW)"
-        location: "University of Wollongong"
-      - name: "Annual Conference of the European Society for Population Economics (ESPE)"
-        location: "Naples"
+    - year: "2025"
+      items:
+        - name: "Australian Gender Economics Workshop (AGEW)"
+          location: "University of Wollongong"
+        - name: "Annual Conference of the European Society for Population Economics (ESPE)"
+          location: "Naples"
+        - name: "Annual Conference of the American Society of Health Economists (ASHEcon)"
+          location: "Nashville"
+        - name: "Australasian Workshop on Econometrics and Health Economics (AWEHE)"
+          location: "Kuala Lumpur"
+        - name: "International Health Economics Association (IHEA) Congress"
+          location: "Bali"
+        - name: "Annual Australian Health Economics Doctoral (AHED) Workshop and Annual Australian Health Economics Society (AHES) Conference"
+          location: "Canberra"
 
-  - year: "2024"
-    items:
-      - name: "AASLE 2024"
-        location: "Bangkok"
-      - name: "CHE Internal Seminar, Centre for Health Economics"
-        location: "Monash University"
+    - year: "2024"
+      items:
+        - name: "AASLE 2024"
+          location: "Bangkok"
+        - name: "5th Meeting of the Asian Workshop on Econometrics and Health Economics"
+          location: "Guangzhou, China"
+        - name: "CHE Internal Seminar, Centre for Health Economics"
+          location: "Monash University"
+        - name: "PhD Brown Bag"
+          location: "Department of Economics, University of Melbourne"
+        - name: "FBE GR Celebration Event Poster Competition"
+          location: "University of Melbourne"
 
-  - year: "2023"
-    items:
-      - name: "PhD Brown Bag"
-        location: "Department of Economics, University of Melbourne"
-      - name: "Summer school in Applied Health Econometrics and Health Policy (AHEHP)"
-        location: "University of Bergamo"
+    - year: "2023"
+      items:
+        - name: "PhD Brown Bag"
+          location: "Department of Economics, University of Melbourne"
+        - name: "Summer School in Applied Health Econometrics and Health Policy (AHEHP)"
+          location: "University of Bergamo"
+        - name: "Centro di Ricerca sul Lavoro “Carlo Dell’Aringa” (CRILDA) Seminar"
+          location: "Università Cattolica del Sacro Cuore, Milan"
 
-  - year: "2022"
-    items:
-      - name: "13th Annual Workshop, Health Economics Group"
-        location: "University of Melbourne"
-      - name: "The Workshop on the Economics of Health"
-        location: "Monash University"
+    - year: "2022"
+      items:
+        - name: "13th Annual Workshop, Health Economics Group"
+          location: "University of Melbourne"
+        - name: "The Workshop on the Economics of Health"
+          location: "Monash University"
 
 
 cv:
