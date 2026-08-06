@@ -7,17 +7,9 @@ nav:
 
 home:
   tagline: PhD Candidate in Economics at the University of Melbourne
+  visiting: Visiting Researcher at the Division of Population Health, Health Services Research & Primary Care, University of Manchester
   title: Martina Repetto
   intro: My research interests are in health and labour economics, with a particular focus on gender and behavioural aspects. 
-  cta_research: View research
-  cta_cv: Download CV
-
-research:
-  title: Research
-  publications:
-    title: Publications
-    papers:
-      - name: "Pandemic Shocks and Unintended Healthcare Disruptions: Chronic Patients During COVID-19"
         coauthors: "with Claudio Lucifora & Antonio Russo"
         subheading: "Empirical Economics, 2026"
         link: "https://doi.org/10.1007/s00181-025-02851-9"
