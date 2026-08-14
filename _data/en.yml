@@ -6,11 +6,11 @@ nav:
   cv: CV
 
 home:
-  tagline: PhD Candidate in Economics at the University of Melbourne, on the 2026-2027 Job Market
-  visiting: I am currently visiting the Division of Population Health, Health Services Research & Primary Care at the University of Manchester
   title: Martina Repetto
-  intro: My research interests are in health and labour economics, with a particular focus on gender and behavioural aspects. 
-  
+  tagline: PhD Candidate in Economics at the University of Melbourne
+  job_market: 2026–27 Job Market
+  intro: I am a health and labour economist studying how healthcare access, provider characteristics, and public policies affect individuals' health and health-related behaviours, with a particular focus on how these responses differ by gender.
+  visiting: Currently a Visiting Researcher at the University of Manchester's Division of Population Health, Health Services Research & Primary Care.
   cta_research: View research
   cta_cv: Download CV
 
