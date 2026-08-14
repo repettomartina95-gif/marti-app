@@ -14,7 +14,7 @@ home:
   cta_research: View research
   cta_cv: Download CV
 
-Job Market Paper:
+job_market_paper:
     title: Job Market Paper
     papers:
       - name: "When Female Doctors Fly In: Access to Female Physicians in Primary Care"
