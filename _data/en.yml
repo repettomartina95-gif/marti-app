@@ -14,16 +14,15 @@ home:
   cta_research: View research
   cta_cv: Download CV
 
-
 research:
   title: Research
 
-job_market_paper:
+  job_market_paper:
     title: Job Market Paper
     papers:
       - name: "When Female Doctors Fly In: Access to Female Physicians in Primary Care"
         description: |
-         Policies addressing physician shortages typically target aggregate supply, yet the composition of the local workforce may also determine which health needs get met. I study a program that periodically sends a visiting female GP to rural Australian towns where all resident physicians are male, comparing each woman's consultations with the visiting GP to her own consultations with local male providers. The same woman is roughly four times as likely to receive genitourinary or hormonal prescriptions when consulting the female GP, against a baseline of 6 percent, and more than ten times as likely to be screened for cervical cancer, against a baseline of 1 percent. Consultations with the female GP are also nearly four times as likely to be long, while placebo visits to other male providers generate no comparable response. Complementary difference-in-differences estimates, which exploit variation in when the program began across towns, show that prescribing effects are concentrated among program users. The pattern is consistent with women raising hormonal and gynaecological concerns with the female GP that they are less likely to raise with local male providers.
+          Policies addressing physician shortages typically target aggregate supply, yet the composition of the local workforce may also determine which health needs get met. I study a program that periodically sends a visiting female GP to rural Australian towns where all resident physicians are male, comparing each woman's consultations with the visiting GP to her own consultations with local male providers. The same woman is roughly four times as likely to receive genitourinary or hormonal prescriptions when consulting the female GP, against a baseline of 6 percent, and more than ten times as likely to be screened for cervical cancer, against a baseline of 1 percent. Consultations with the female GP are also nearly four times as likely to be long, while placebo visits to other male providers generate no comparable response. Complementary difference-in-differences estimates, which exploit variation in when the program began across towns, show that prescribing effects are concentrated among program users. The pattern is consistent with women raising hormonal and gynaecological concerns with the female GP that they are less likely to raise with local male providers.
 
   publications:
     title: Publications
@@ -35,7 +34,7 @@ job_market_paper:
         description: |
           This paper investigates the effects of pandemic shocks on outpatient care utilization among chronic patients aged 50 and older in Italy. We merge administrative data on outpatient services with information on excess deaths to proxy the severity of pandemic shocks during COVID-19. To account for confounding factors and individual-level unobserved heterogeneity, we implement an individual-level fixed-effects estimator. Our results indicate that excess deaths are associated with a decline in the probability of receiving at least one medical treatment per month. A heterogeneity analysis reveals that the reduction is more substantial for patients with comorbidities, who exhibit a larger prevalence-response elasticity, indicating that sicker patients are more sensitive to pandemic severity. These findings suggest that pandemic shocks influence healthcare-seeking behaviour even among patients previously thought to have inelastic demand.
 
-      - name: "Gender Mix Prescription: Is it the Cure for Job Satisfaction and Retention?"
+      - name: "Gender Mix Prescription: Is It the Cure for Job Satisfaction and Retention?"
         coauthors: "with Margherita Agnoletto"
         subheading: "Labour Economics, 2025"
         link: "https://doi.org/10.1016/j.labeco.2025.102786"
@@ -52,15 +51,13 @@ job_market_paper:
   work_in_progress:
     title: Work in Progress
     papers:
-     - name: "When Female Doctors Fly In: Access to Female Physicians in Primary Care" (Job Market Paper)
-        description: |
-         Policies addressing physician shortages typically target aggregate supply, yet the composition of the local workforce may also determine which health needs get met. I study a program that periodically sends a visiting female GP to rural Australian towns where all resident physicians are male, comparing each woman's consultations with the visiting GP to her own consultations with local male providers. The same woman is roughly four times as likely to receive genitourinary or hormonal prescriptions when consulting the female GP, against a baseline of 6 percent, and more than ten times as likely to be screened for cervical cancer, against a baseline of 1 percent. Consultations with the female GP are also nearly four times as likely to be long, while placebo visits to other male providers generate no comparable response. Complementary difference-in-differences estimates, which exploit variation in when the program began across towns, show that prescribing effects are concentrated among program users. The pattern is consistent with women raising hormonal and gynaecological concerns with the female GP that they are less likely to raise with local male providers.
       - name: "From Awareness to Action: Help-Seeking and Femicides after Gender-Based Violence Campaigns in Italy"
-        coauthors: with Margherita Agnoletto
+        coauthors: "with Margherita Agnoletto"
         description: |
           Awareness campaigns are among the most widely deployed policy responses to gender-based violence, yet systematic evidence on their behavioural effects remains scarce. This paper examines whether variation in campaign intensity around the International Day for the Elimination of Violence against Women (November 25) affects help-seeking behaviour and femicide rates in Italy. We exploit the unusually high salience of the 2023 campaign in a difference-in-differences design that compares outcomes before and after November 25 across years of varying intensity. Helpline calls to the national 1522 anti-violence line increase by approximately 160 percent in the weeks following the high-intensity campaign, with the effect concentrated among non-victim callers. Femicides decline by approximately 61 percent during high-intensity campaign months. Event-study specifications reveal no differential pre-trends, and placebo tests yield null effects for alternative treatment years, supporting a causal interpretation of the estimates. These findings suggest that recurring awareness campaigns can be effective tools for gender-based violence prevention.
+
       - name: "When Dads Can't Get on the Beers: The Positive Impact of COVID-19 on Parental Drinking Behaviour"
-        coauthors: with Susan Mendez, Susan Sawyer & Julie Moschion
+        coauthors: "with Susan Méndez, Susan Sawyer & Julie Moschion"
         description: |
           This study investigates the effects of the COVID-19 pandemic on alcohol consumption among parents. We use data from the Victorian Adolescent Health Cohort Study (VAHCS) with detailed information on alcohol consumption. Our empirical strategy follows a difference-in-differences design that relies on quasi-random variation in the timing of interviews. Our results show a significant decline in heavy drinking among parents, driven primarily by fathers. This reduction strengthens with prolonged lockdown exposure. Additionally, fathers exhibit a reduction in depressive symptoms and a decrease in cigarette use. Descriptive text analysis indicates that spending more time with family is the most frequently mentioned positive aspect of the lockdowns. This increased family engagement may have contributed to reduced drinking, as stronger family engagement may encourage healthier behaviours in the home environment or reduce opportunities for alcohol consumption.
   other_reports:
