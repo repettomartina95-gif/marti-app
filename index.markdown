@@ -1,7 +1,10 @@
 ---
 layout: default
 title: Home
+---
+
 {% assign t = site.data.en %}
+
 <div class="min-h-[60vh] flex flex-col justify-center gap-6">
   <div class="flex flex-col-reverse items-center gap-6 text-center md:flex-row md:items-start md:gap-2 md:text-left">
   <div>
