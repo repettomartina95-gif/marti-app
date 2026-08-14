@@ -14,6 +14,10 @@ home:
   cta_research: View research
   cta_cv: Download CV
 
+
+research:
+  title: Research
+  
 job_market_paper:
     title: Job Market Paper
     papers:
@@ -21,8 +25,6 @@ job_market_paper:
         description: |
          Policies addressing physician shortages typically target aggregate supply, yet the composition of the local workforce may also determine which health needs get met. I study a program that periodically sends a visiting female GP to rural Australian towns where all resident physicians are male, comparing each woman's consultations with the visiting GP to her own consultations with local male providers. The same woman is roughly four times as likely to receive genitourinary or hormonal prescriptions when consulting the female GP, against a baseline of 6 percent, and more than ten times as likely to be screened for cervical cancer, against a baseline of 1 percent. Consultations with the female GP are also nearly four times as likely to be long, while placebo visits to other male providers generate no comparable response. Complementary difference-in-differences estimates, which exploit variation in when the program began across towns, show that prescribing effects are concentrated among program users. The pattern is consistent with women raising hormonal and gynaecological concerns with the female GP that they are less likely to raise with local male providers.
 
-research:
-  title: Research
   publications:
     title: Publications
     papers:
