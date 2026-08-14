@@ -13,30 +13,6 @@ permalink: /research/
     </h1>
   </header>
 
- <section class="space-y-3">
-    <h2 class="text-xl font-semibold text-slate-900">
-      {{ t.research.job_market_paper.title }}
-    </h2>
-    <ul class="mt-2 space-y-4 text-slate-800 text-sm leading-relaxed">
-      {% for paper in site.data.en.research.job_market_paper.papers %}
-        <li class="space-y-2 border-l-2 border-sky-600 pl-4">
-          <p class="font-semibold text-slate-900">
-            {{ paper.name }}
-          </p>
-          {% if paper.coauthors %}
-            <p class="text-slate-700">
-              {{ paper.coauthors }}
-            </p>
-          {% endif %}
-          {% if paper.description %}
-            <p class="text-sm text-slate-600 leading-relaxed">
-              {{ paper.description }}
-            </p>
-          {% endif %}
-        </li>
-      {% endfor %}
-    </ul>
-  </section>
   
   <section class="space-y-3">
     <h2 class="text-xl font-semibold text-slate-900">
