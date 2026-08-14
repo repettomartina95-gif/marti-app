@@ -28,6 +28,7 @@ title: Home
 <p class="mt-5 text-sm font-medium text-sky-700">
   {{ t.home.visiting }}
 </p>
+</div>
 
   <img
     src="{{ '/assets/images/marti.jpg' | relative_url }}"
