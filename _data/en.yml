@@ -6,12 +6,20 @@ nav:
   cv: CV
 
 home:
-  tagline: PhD Candidate in Economics at the University of Melbourne
+  tagline: PhD Candidate in Economics at the University of Melbourne, on the 2026-2027 Job Market
   visiting: I am currently visiting the Division of Population Health, Health Services Research & Primary Care at the University of Manchester
   title: Martina Repetto
   intro: My research interests are in health and labour economics, with a particular focus on gender and behavioural aspects. 
+  
   cta_research: View research
   cta_cv: Download CV
+
+Job Market Paper:
+    title: Job Market Paper
+    papers:
+      - name: "When Female Doctors Fly In: Access to Female Physicians in Primary Care"
+        description: |
+         Policies addressing physician shortages typically target aggregate supply, yet the composition of the local workforce may also determine which health needs get met. I study a program that periodically sends a visiting female GP to rural Australian towns where all resident physicians are male, comparing each woman's consultations with the visiting GP to her own consultations with local male providers. The same woman is roughly four times as likely to receive genitourinary or hormonal prescriptions when consulting the female GP, against a baseline of 6 percent, and more than ten times as likely to be screened for cervical cancer, against a baseline of 1 percent. Consultations with the female GP are also nearly four times as likely to be long, while placebo visits to other male providers generate no comparable response. Complementary difference-in-differences estimates, which exploit variation in when the program began across towns, show that prescribing effects are concentrated among program users. The pattern is consistent with women raising hormonal and gynaecological concerns with the female GP that they are less likely to raise with local male providers.
 
 research:
   title: Research
@@ -42,9 +50,6 @@ research:
   work_in_progress:
     title: Work in Progress
     papers:
-      - name: "When Female Doctors Fly In: Access to Female Physicians and Health Care Utilisation"
-        description: |
-          Policies addressing physician shortages typically target aggregate supply without considering that the gender composition of the local health workforce may also affect which health needs get met. I study this using a program that periodically sends a visiting female GP to rural towns where all resident doctors are male, comparing each woman's consultations with the female GP to her own consultations with local male providers. The same woman is roughly four times as likely to receive genitourinary or hormonal prescriptions when consulting the female GP, against a baseline of 6 percent, and more than ten times as likely to be screened for cervical cancer, against a baseline of 1 percent. In contrast, prescribing for non-gender-sensitive conditions and the use of routine pathology tests are unchanged. Complementary difference-in-differences estimates show that prescribing effects are concentrated among program users. Consultations with the female GP are nearly four times as likely to be long consultations, and placebo visiting male providers generate no comparable response. The pattern is consistent with women bringing gender-sensitive concerns to the female GP that they are less likely to raise with local male providers. These findings imply that physician supply and workforce gender composition are not equivalent policy levers.
       - name: "From Awareness to Action: Help-Seeking and Femicides after Gender-Based Violence Campaigns in Italy"
         coauthors: with Margherita Agnoletto
         description: |
