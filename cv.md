@@ -29,8 +29,8 @@ permalink: /cv/
       </h2>
       <p>PhD Candidate in Economics, University of Melbourne</p>
       <p class="space-x-2">
-        <a href="mailto:martina.repetto@unimelb.edu.au" class="text-sky-700 hover:underline">
-          martina.repetto@unimelb.edu.au
+        <a href="mailto:m.repetto@unimelb.edu.au" class="text-sky-700 hover:underline">
+          m.repetto@unimelb.edu.au
         </a>
         <span>·</span>
         <a href="https://www.linkedin.com/in/martinarepetto1" class="text-sky-700 hover:underline" target="_blank" rel="noopener">
