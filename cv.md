@@ -149,6 +149,7 @@ permalink: /cv/
         <li>
           <span class="italic">“When Dads Can’t Get on the Beers: The Positive Impact of COVID-19 on Parental Drinking Behaviour”</span>
           (with Susan J. Méndez, Susan Sawyer &amp; Julie Moschion).
+          <a href="{{ '/assets/files/wp_when_dads_cant_martina_repetto.pdf' | relative_url }}" class="ml-2 font-semibold text-sky-700 hover:underline" target="_blank" rel="noopener noreferrer">Working paper</a>
         </li>
       </ul>
     </section>

@@ -85,6 +85,17 @@ permalink: /research/
           {% if paper.coauthors %}
             <p class="text-slate-700">
               {{ paper.coauthors }}
+              {% if paper.link %}
+                <a href="{{ paper.link | relative_url }}" class="ml-3 font-semibold text-sky-700 hover:underline" target="_blank" rel="noopener noreferrer">
+                  {{ paper.link_text | default: "Working paper" }}
+                </a>
+              {% endif %}
+            </p>
+          {% elsif paper.link %}
+            <p>
+              <a href="{{ paper.link | relative_url }}" class="font-semibold text-sky-700 hover:underline" target="_blank" rel="noopener noreferrer">
+                {{ paper.link_text | default: "Working paper" }}
+              </a>
             </p>
           {% endif %}
           {% if paper.description %}
