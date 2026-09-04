@@ -105,11 +105,12 @@ permalink: /cv/
         Job Market Paper
       </h3>
       <hr>
-      <ul class="space-y-2 text-sm text-slate-800 list-disc pl-5">
-        <li>
-          <span class="italic">“When Female Doctors Fly In: Access to Female Physicians in Primary Care”</span>
-        </li>
-      </ul>
+      <div class="space-y-2 text-sm text-slate-800">
+        <p class="italic">“When Female Doctors Fly In: Access to Female Physicians in Primary Care”</p>
+        <p class="text-slate-600 leading-relaxed">
+          Policies addressing physician shortages typically target aggregate supply, yet the composition of the local workforce may also determine which health needs get met. I study a program that periodically sends a visiting female general practitioner (GP) to rural Australian towns where all resident physicians are male, comparing each woman’s consultations with the visiting GP to her own consultations with local male providers. The same woman is roughly four times as likely to receive genitourinary or hormonal prescriptions when consulting the female GP, against a baseline of 6 percent, and more than ten times as likely to be screened for cervical cancer, against a baseline of 1 percent. Consultations with the female GP are also nearly four times as likely to be long, while placebo visits to other male providers generate no comparable response. Complementary difference-in-differences estimates, which exploit variation in when the program began across towns, show that prescribing effects are concentrated among program users. The pattern is consistent with women raising hormonal and gynaecological concerns with the female GP that they are less likely to raise with local male providers.
+        </p>
+      </div>
     </section>
 
     <section class="space-y-3 mt-4">
@@ -136,22 +137,31 @@ permalink: /cv/
       </ul>
     </section>
 
-    <section class="space-y-3 mt-4">
+    <section class="space-y-4 mt-4">
       <h3 class="text-lg font-semibold tracking-tight text-slate-900">
         Working Papers
       </h3>
       <hr>
-      <ul class="space-y-2 text-sm text-slate-800 list-disc pl-5">
-        <li>
+      <div class="space-y-2 text-sm text-slate-800">
+        <p>
           <span class="italic">“From Awareness to Action: Help-Seeking and Femicides after Gender-Based Violence Campaigns in Italy”</span>
           (with Margherita Agnoletto).
-        </li>
-        <li>
+          <a href="{{ '/assets/files/GBV.pdf' | relative_url }}" class="ml-2 font-semibold text-sky-700 hover:underline" target="_blank" rel="noopener noreferrer">Working paper</a>
+        </p>
+        <p class="text-slate-600 leading-relaxed">
+          Awareness campaigns are among the most widely deployed policy responses to gender-based violence, yet systematic evidence on their behavioural effects remains scarce. This paper examines whether variation in campaign intensity around the International Day for the Elimination of Violence against Women (November 25) affects help-seeking behaviour and femicide rates in Italy. We exploit the unusually high salience of the 2023 campaign in a difference-in-differences design that compares outcomes before and after November 25 across years of varying intensity. Helpline calls to the national 1522 anti-violence line increase by approximately 160% in the weeks following the high-intensity campaign, with the effect concentrated among non-victim callers. Femicides decline by approximately 61% during high-intensity campaign months. Event-study specifications reveal no differential pre-trends, and placebo tests yield null effects for alternative treatment years, supporting a causal interpretation of the estimates. These findings suggest that awareness campaigns can be effective tools for gender-based violence prevention.
+        </p>
+      </div>
+      <div class="space-y-2 text-sm text-slate-800">
+        <p>
           <span class="italic">“When Dads Can’t Get on the Beers: The Positive Impact of COVID-19 on Parental Drinking Behaviour”</span>
           (with Susan J. Méndez, Susan Sawyer &amp; Julie Moschion).
           <a href="{{ '/assets/files/wp_when_dads_cant_martina_repetto.pdf' | relative_url }}" class="ml-2 font-semibold text-sky-700 hover:underline" target="_blank" rel="noopener noreferrer">Working paper</a>
-        </li>
-      </ul>
+        </p>
+        <p class="text-slate-600 leading-relaxed">
+          We estimate the effect of COVID-19 restrictions on alcohol consumption among parents living in Victoria. We combine detailed drinking information from the Victorian Adolescent Health Cohort Study, quasi-random variation in survey timing around Victoria’s first lockdown in March 2020, and a difference-in-differences design. We find that heavy drinking among fathers falls substantially: high-risk drinking declines by 26%, binge drinking drops by 28%, and peak single-occasion consumption decreases by approximately four standard drinks. Effects are entirely absent among mothers, concentrated among fathers of younger children, and grow larger under the second, longer lockdown. Descriptive evidence points to weekend drinking as the primary margin of adjustment, consistent with the removal of social occasions rather than financial hardship as the operative mechanism. These findings suggest that the structure of social opportunities shapes household drinking behaviour, and that policies intended to reshape daily routines can generate substantial reductions in alcohol consumption even when not explicitly designed for this target.
+        </p>
+      </div>
     </section>
 
     <section class="space-y-3 mt-4">
@@ -245,7 +255,7 @@ permalink: /cv/
       <div class="space-y-3 text-sm text-slate-800">
         <div>
           <p class="font-semibold">2026</p>
-          <p>Invited Discussant, European Workshop on Econometrics and Health Economics (EWEHE), Vienna*; European Health Economics Association (EuHEA) PhD Conference, Nuremberg*; Health Organisation, Policy and Economics (HOPE) Seminar, University of Manchester*; Seminar, Paris Nanterre University*; Seminar, Centre for Health Economics (CHE), University of York*; Seminar, Università della Svizzera italiana (USI), Switzerland*; Seminar, IE University, Madrid*; Seminar, University of Lucerne*; Seminar, University of Lausanne*.</p>
+          <p>Discussant, European Workshop on Econometrics and Health Economics (EWEHE), Vienna; European Health Economics Association (EuHEA) PhD Conference, Nuremberg; Health Organisation, Policy and Economics (HOPE) Seminar, University of Manchester; Seminar, Paris Nanterre University*; Seminar, Centre for Health Economics (CHE), University of York*; Seminar, IE University, Madrid*; Seminar, University of Lucerne*; Seminar, University of Lausanne*.</p>
         </div>
         <div>
           <p class="font-semibold">2025</p>
@@ -336,9 +346,23 @@ permalink: /cv/
       <hr>
       <ul class="space-y-2 text-sm text-slate-800 list-disc pl-5">
         <li>Referee for <span class="italic">Health Economics</span>, <span class="italic">Australian Economic Review</span>, and <span class="italic">Journal of Aging and Social Policy</span>.</li>
-        <li>Chair, PhD Session, 27th Labour Econometrics Workshop (2025).</li>
         <li>Discussant, 33rd European Workshop on Econometrics and Health Economics (2026).</li>
+        <li>Chair, PhD Session, 27th Labour Econometrics Workshop (2025).</li>
+        <li>PhD Brown Bag coordinator, University of Melbourne (2023–2024).</li>
         <li>Research Assistant, Monash University (2023–2024).</li>
+      </ul>
+    </section>
+
+    <section class="space-y-3 mt-4">
+      <h3 class="text-lg font-semibold tracking-tight text-slate-900">
+        References
+      </h3>
+      <hr>
+      <ul class="space-y-1 text-sm text-slate-800 list-disc pl-5">
+        <li>Kevin Staub — <a href="mailto:kevin.staub@unimelb.edu.au" class="text-sky-700 hover:underline">kevin.staub@unimelb.edu.au</a></li>
+        <li>Anthony Scott — <a href="mailto:anthony.scott@monash.edu" class="text-sky-700 hover:underline">anthony.scott@monash.edu</a></li>
+        <li>Susan J. Méndez — <a href="mailto:susan.mendez@unimelb.edu.au" class="text-sky-700 hover:underline">susan.mendez@unimelb.edu.au</a></li>
+        <li>Claudio Lucifora — <a href="mailto:claudio.lucifora@unicatt.it" class="text-sky-700 hover:underline">claudio.lucifora@unicatt.it</a></li>
       </ul>
     </section>
   </div>
