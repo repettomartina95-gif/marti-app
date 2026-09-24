@@ -196,17 +196,17 @@ permalink: /cv/
       <hr>
       <ul class="space-y-2 text-sm text-slate-800 list-disc pl-5">
         <li>
-          Chapter 1.1, 1.2, 1.5 in
+          Chapters 1.1, 1.2, and 1.5 in
           <span class="italic">I territori e gli obiettivi di sviluppo sostenibile 2021</span>,
           Rapporto ASviS, 2021.
         </li>
         <li>
           Contributions in
-          <span class="italic">I territori e gli obiettivi di sviluppo sostenibile</span>,
+          <span class="italic">I territori e gli obiettivi di sviluppo sostenibile 2020</span>,
           Rapporto ASviS, 2020.
         </li>
         <li>
-          SDG4 and SDG8 in
+          SDG 4 and SDG 8 in
           <span class="italic">Rapporto Lombardia 2020</span>,
           ISBN 978-88-6250-809-4, pp. 113–129, 183–201, 2020.
         </li>
@@ -241,7 +241,7 @@ permalink: /cv/
       </div>
       <p class="text-sm text-slate-800 italic mt-2">Short-Term Department Visits</p>
       <div class="space-y-1 text-sm text-slate-800">
-        <p><span class="font-semibold">2026*:</span> Università della Svizzera Italiana (USI) | Paris Nanterre University | Centre for Health Economics (York) | IE Business School | University of Lucerne | University of Lausanne | University of Barcelona</p>
+        <p><span class="font-semibold">2026:</span> Università della Svizzera Italiana (USI). <span class="italic">Upcoming:</span> Paris Nanterre University; Centre for Health Economics (CHE), University of York; IE Business School, Madrid; University of Lucerne; University of Lausanne; University of Barcelona.</p>
         <p><span class="font-semibold">2024:</span> Monash Centre for Health Economics</p>
         <p><span class="font-semibold">2023:</span> Università Cattolica del Sacro Cuore</p>
       </div>
@@ -255,7 +255,7 @@ permalink: /cv/
       <div class="space-y-3 text-sm text-slate-800">
         <div>
           <p class="font-semibold">2026</p>
-          <p>Discussant, European Workshop on Econometrics and Health Economics (EWEHE), Vienna; European Health Economics Association (EuHEA) PhD Conference, Nuremberg; Health Organisation, Policy and Economics (HOPE) Seminar, University of Manchester; Seminar, Paris Nanterre University*; Seminar, Centre for Health Economics (CHE), University of York*; Seminar, IE University, Madrid*; Seminar, University of Lucerne*; Seminar, University of Lausanne*.</p>
+          <p>Discussant, European Workshop on Econometrics and Health Economics (EWEHE), Vienna; European Health Economics Association (EuHEA) PhD Conference, Nuremberg; Health Organisation, Policy and Economics (HOPE) Seminar, University of Manchester; Seminar, Paris Nanterre University*; Seminar, Centre for Health Economics (CHE), University of York*; Seminar, IE University, Madrid*; Seminar, University of Lucerne*; Seminar, University of Lausanne*; 40th PhD Conference in Economics and Business (invited)*.</p>
         </div>
         <div>
           <p class="font-semibold">2025</p>

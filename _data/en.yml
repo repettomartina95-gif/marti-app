@@ -104,6 +104,34 @@ teaching:
 seminars:
   title: Seminars & Conferences
   years:
+    - year: "2026"
+      items:
+        - name: "European Workshop on Econometrics and Health Economics (EWEHE)"
+          location: "Vienna"
+          role: "Discussant"
+        - name: "European Health Economics Association (EuHEA) PhD Conference"
+          location: "Nuremberg"
+        - name: "Health Organisation, Policy and Economics (HOPE) Seminar"
+          location: "University of Manchester"
+        - name: "Seminar"
+          location: "Paris Nanterre University"
+          upcoming: true
+        - name: "Seminar, Centre for Health Economics (CHE)"
+          location: "University of York"
+          upcoming: true
+        - name: "Seminar, IE University"
+          location: "Madrid"
+          upcoming: true
+        - name: "Seminar"
+          location: "University of Lucerne"
+          upcoming: true
+        - name: "Seminar"
+          location: "University of Lausanne"
+          upcoming: true
+        - name: "40th PhD Conference in Economics and Business (invited)"
+          location: ""
+          upcoming: true
+
     - year: "2025"
       items:
         - name: "Australian Gender Economics Workshop (AGEW)"
