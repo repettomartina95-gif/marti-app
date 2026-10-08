@@ -106,7 +106,10 @@ permalink: /cv/
       </h3>
       <hr>
       <div class="space-y-2 text-sm text-slate-800">
-        <p class="italic">“When Female Doctors Fly In: Access to Female Physicians in Primary Care”</p>
+        <p>
+          <span class="italic">“When Female Doctors Fly In: Access to Female Physicians in Primary Care”</span>
+          <a href="{{ '/assets/files/JMP.pdf' | relative_url }}" class="ml-2 font-semibold text-sky-700 hover:underline" target="_blank" rel="noopener noreferrer">Read paper</a>
+        </p>
         <p class="text-slate-600 leading-relaxed">
           In many rural communities, a woman who wants to see a female doctor has to leave town. I study how this barrier shapes women’s primary care, using a program that periodically sends a visiting female general practitioner to rural Australian towns and linked administrative records covering every subsidised consultation, prescription, and test. Two designs answer two questions. Comparing the same woman’s encounters with the visiting female physician and with local male providers, genitourinary or hormone medications are between three and four times as common among her prescription days with the female physician, and cervical screening is more than ten times as common among her service days. Cardiovascular and mental-health prescribing do not differ, and encounters with other non-local male providers show no similar pattern. Around the program’s entry into a town, prescribing does not change on average, but women who come to use the service become more likely to receive gender-specific prescriptions each month without seeing a doctor more often. The pattern is consistent both with women being more comfortable raising hormonal and gynaecological concerns with a female doctor and with differences in practice style. The findings suggest that the gender composition of the local workforce, and not only its size, shapes which health needs are met.
         </p>

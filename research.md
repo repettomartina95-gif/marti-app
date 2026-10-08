@@ -22,18 +22,22 @@ permalink: /research/
         <li class="space-y-2 border-l-2 border-sky-600 pl-4">
           <p class="font-semibold text-slate-900">
             {{ paper.name }}
-         </p>
-          <p class="text-slate-700">
-            {{ paper.coauthors }}
-          </p>
-          <p class="text-slate-600 italic">
-            {{ paper.subheading }}
             {% if paper.link %}
-              <a href="{{ paper.link }}" class="not-italic ml-3 font-semibold text-sky-700 hover:underline" target="_blank" rel="noopener noreferrer">
-                Article Link
+              <a href="{{ paper.link | relative_url }}" class="ml-3 font-semibold text-sky-700 hover:underline" target="_blank" rel="noopener noreferrer">
+                {{ paper.link_text | default: "Read paper" }}
               </a>
             {% endif %}
           </p>
+          {% if paper.coauthors %}
+            <p class="text-slate-700">
+              {{ paper.coauthors }}
+            </p>
+          {% endif %}
+          {% if paper.subheading %}
+            <p class="text-slate-600 italic">
+              {{ paper.subheading }}
+            </p>
+          {% endif %}
           <p class="text-sm text-slate-600 leading-relaxed">
             {{ paper.description }}
           </p>

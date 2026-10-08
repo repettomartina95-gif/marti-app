@@ -36,9 +36,10 @@ title: Home
   />
   </div>
   <div class="flex flex-wrap justify-center gap-3 md:justify-start">
-    <a href="{{ '/research/' | relative_url }}"
-       class="inline-flex items-center justify-center rounded-full bg-sky-700 px-5 py-2.5 text-sm font-medium text-white hover:bg-sky-800">
-      View research
+    <a href="{{ '/assets/files/JMP.pdf' | relative_url }}"
+       class="inline-flex items-center justify-center rounded-full bg-sky-700 px-5 py-2.5 text-sm font-medium text-white hover:bg-sky-800"
+       target="_blank" rel="noopener noreferrer">
+      Read my job market paper
     </a>
     <a href="{{ '/assets/files/CV.pdf' | relative_url }}"
       class="inline-flex items-center justify-center rounded-full border border-slate-300 px-5 py-2.5 text-sm font-medium text-slate-700 hover:bg-slate-100"
