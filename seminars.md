@@ -27,7 +27,7 @@ permalink: /seminars/
           {% for item in completed %}
             <li class="relative pl-5">
               <span class="absolute left-0 top-2 h-1.5 w-1.5 rounded-full bg-sky-600"></span>
-              {% if item.role %}<span class="text-slate-700">{{ item.role }}, </span>{% endif %}<span class="font-semibold text-slate-900">{{ item.name }}</span>{% if item.location and item.location != "" %}<span class="text-slate-600"> • {{ item.location }}</span>{% endif %}
+              {% if item.role %}<span class="text-slate-700">{{ item.role }}, </span>{% endif %}<span class="font-semibold text-slate-900">{{ item.name }}</span>{% if item.location and item.location != "" %}<span class="text-slate-600"> ({{ item.location }})</span>{% endif %}
             </li>
           {% endfor %}
         </ul>
@@ -40,7 +40,7 @@ permalink: /seminars/
             {% for item in upcoming %}
               <li class="relative pl-5">
                 <span class="absolute left-0 top-2 h-1.5 w-1.5 rounded-full bg-sky-300"></span>
-                {% if item.role %}<span class="text-slate-700">{{ item.role }}, </span>{% endif %}<span class="font-semibold text-slate-900">{{ item.name }}</span>{% if item.location and item.location != "" %}<span class="text-slate-600"> • {{ item.location }}</span>{% endif %}
+                {% if item.role %}<span class="text-slate-700">{{ item.role }}, </span>{% endif %}<span class="font-semibold text-slate-900">{{ item.name }}</span>{% if item.location and item.location != "" %}<span class="text-slate-600"> ({{ item.location }})</span>{% endif %}
               </li>
             {% endfor %}
           </ul>
