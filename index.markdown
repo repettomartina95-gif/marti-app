@@ -22,9 +22,11 @@ title: Home
     <p class="text-sm uppercase tracking-[0.2em] text-slate-500">
       {{ t.home.tagline }}
     </p>
+      {% if t.home.visiting and t.home.visiting != "" %}
       <p class="mt-2 text-sm font-medium text-sky-700">
       {{ t.home.visiting }}
     </p>
+      {% endif %}
     <p class="mt-4 max-w-2xl text-slate-600 leading-relaxed">
       {{ t.home.intro }}
     </p>

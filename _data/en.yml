@@ -7,7 +7,7 @@ nav:
 
 home:
   tagline: PhD Candidate in Economics at the University of Melbourne
-  visiting: I am currently visiting the Division of Population Health, Health Services Research & Primary Care at the University of Manchester
+  visiting: ""
   title: Martina Repetto
   job_market: 2026–27 Job Market
   intro: My research interests are in health and labour economics, with a particular focus on gender and behavioural aspects.
@@ -114,15 +114,15 @@ seminars:
           location: "Nuremberg, Germany"
         - name: "HOPE Seminar at University of Manchester"
           location: "Manchester, UK"
-        - name: "Invited seminar at Paris Nanterre University"
+        - name: "Internal seminar at Paris Nanterre University"
           location: "Paris, France"
-        - name: "Invited seminar at Centre for Health Economics (CHE), University of York"
+        - name: "Internal seminar at Centre for Health Economics (CHE), University of York"
           location: "York, UK"
-        - name: "Invited seminar at IE University"
+        - name: "Internal seminar at IE University"
           location: "Madrid, Spain"
-        - name: "Invited seminar at University of Lucerne"
+        - name: "Internal seminar at University of Lucerne"
           location: "Lucerne, Switzerland"
-        - name: "Invited seminar at University of Lausanne"
+        - name: "Internal seminar at University of Lausanne"
           location: "Lausanne, Switzerland"
         - name: "40th PhD Conference in Economics and Business (invited)"
           location: "University of Sydney, Australia"
