@@ -126,7 +126,6 @@ seminars:
           location: "Lausanne, Switzerland"
         - name: "40th PhD Conference in Economics and Business (invited)"
           location: "University of Sydney, Australia"
-          upcoming: true
 
     - year: "2025"
       items:

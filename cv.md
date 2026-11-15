@@ -258,7 +258,7 @@ permalink: /cv/
       <div class="space-y-3 text-sm text-slate-800">
         <div>
           <p class="font-semibold">2026</p>
-          <p>Discussant, European Workshop on Econometrics and Health Economics (EWEHE), Vienna; European Health Economics Association (EuHEA) PhD Conference, Nuremberg; Health Organisation, Policy and Economics (HOPE) Seminar, University of Manchester; Seminar, Paris Nanterre University; Seminar, Centre for Health Economics (CHE), University of York; Seminar, IE University, Madrid; Seminar, University of Lucerne; Seminar, University of Lausanne; 40th PhD Conference in Economics and Business (invited), University of Sydney*.</p>
+          <p>Discussant, European Workshop on Econometrics and Health Economics (EWEHE), Vienna; European Health Economics Association (EuHEA) PhD Conference, Nuremberg; Health Organisation, Policy and Economics (HOPE) Seminar, University of Manchester; Seminar, Paris Nanterre University; Seminar, Centre for Health Economics (CHE), University of York; Seminar, IE University, Madrid; Seminar, University of Lucerne; Seminar, University of Lausanne; 40th PhD Conference in Economics and Business (invited), University of Sydney.</p>
         </div>
         <div>
           <p class="font-semibold">2025</p>
@@ -276,7 +276,6 @@ permalink: /cv/
           <p class="font-semibold">2022</p>
           <p>13th Annual Workshop of the University of Melbourne Health Economics Group; Workshop on the Economics of Health, Monash University.</p>
         </div>
-        <p class="italic text-xs">* Upcoming</p>
       </div>
     </section>
 
