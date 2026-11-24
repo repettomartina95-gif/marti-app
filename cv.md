@@ -148,7 +148,7 @@ permalink: /cv/
       <div class="space-y-2 text-sm text-slate-800">
         <p>
           <span class="italic">“From Awareness to Action: Public Attention and Gender-Based Violence”</span>
-          (with Margherita Agnoletto).
+          (with Margherita Agnoletto &amp; Paola Profeta).
           <a href="{{ '/assets/files/GBV.pdf' | relative_url }}" class="ml-2 font-semibold text-sky-700 hover:underline" target="_blank" rel="noopener noreferrer">Working paper</a>
         </p>
         <p class="text-slate-600 leading-relaxed">
