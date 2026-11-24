@@ -147,12 +147,12 @@ permalink: /cv/
       <hr>
       <div class="space-y-2 text-sm text-slate-800">
         <p>
-          <span class="italic">“From Awareness to Action: Help-Seeking and Femicides after Gender-Based Violence Campaigns in Italy”</span>
+          <span class="italic">“From Awareness to Action: Public Attention and Gender-Based Violence”</span>
           (with Margherita Agnoletto).
           <a href="{{ '/assets/files/GBV.pdf' | relative_url }}" class="ml-2 font-semibold text-sky-700 hover:underline" target="_blank" rel="noopener noreferrer">Working paper</a>
         </p>
         <p class="text-slate-600 leading-relaxed">
-          Awareness campaigns are among the most widely deployed policy responses to gender-based violence, yet systematic evidence on their behavioural effects remains scarce. This paper examines whether variation in campaign intensity around the International Day for the Elimination of Violence against Women (November 25) affects help-seeking behaviour and femicide rates in Italy. We exploit the unusually high salience of the 2023 campaign in a difference-in-differences design that compares outcomes before and after November 25 across years of varying intensity. Helpline calls to the national 1522 anti-violence line increase by approximately 160% in the weeks following the high-intensity campaign, with the effect concentrated among non-victim callers. Femicides decline by approximately 61% during high-intensity campaign months. Event-study specifications reveal no differential pre-trends, and placebo tests yield null effects for alternative treatment years, supporting a causal interpretation of the estimates. These findings suggest that awareness campaigns can be effective tools for gender-based violence prevention.
+          Awareness campaigns are a central policy response to gender-based violence (GBV), yet there is little evidence that public attention changes behaviour. We study November 25, the International Day for the Elimination of Violence against Women, in Italy, where a convergence of events made public attention to GBV exceptionally high in 2023 and 2024. A difference-in-differences design compares the change in outcomes after November 25 in these years with the same change in 2017–2022. Weekly calls to the national anti-violence helpline rose by 122% after November 25, 2023. The increase was larger among people calling on behalf of a victim (143%) than among victims themselves (89%). Femicides fell by 62% in November and December of the high-attention years, about seven fewer per month nationwide. Both responses fade within three to four months and do not vary significantly with local anti-violence services or regional gender norms. Lasting effects may require attention to be renewed over time.
         </p>
       </div>
       <div class="space-y-2 text-sm text-slate-800">

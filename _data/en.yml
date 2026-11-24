@@ -53,12 +53,12 @@ research:
   work_in_progress:
     title: Work in Progress
     papers:
-      - name: "From Awareness to Action: Help-Seeking and Femicides after Gender-Based Violence Campaigns in Italy"
+      - name: "From Awareness to Action: Public Attention and Gender-Based Violence"
         coauthors: "with Margherita Agnoletto"
         link: "/assets/files/GBV.pdf"
         link_text: "Working paper"
         description: |
-          Awareness campaigns are among the most widely deployed policy responses to gender-based violence, yet systematic evidence on their behavioural effects remains scarce. This paper examines whether variation in campaign intensity around the International Day for the Elimination of Violence against Women (November 25) affects help-seeking behaviour and femicide rates in Italy. We exploit the unusually high salience of the 2023 campaign in a difference-in-differences design that compares outcomes before and after November 25 across years of varying intensity. Helpline calls to the national 1522 anti-violence line increase by approximately 160 percent in the weeks following the high-intensity campaign, with the effect concentrated among non-victim callers. Femicides decline by approximately 61 percent during high-intensity campaign months. Event-study specifications reveal no differential pre-trends, and placebo tests yield null effects for alternative treatment years, supporting a causal interpretation of the estimates. These findings suggest that recurring awareness campaigns can be effective tools for gender-based violence prevention.
+          Awareness campaigns are a central policy response to gender-based violence (GBV), yet there is little evidence that public attention changes behaviour. We study November 25, the International Day for the Elimination of Violence against Women, in Italy, where a convergence of events made public attention to GBV exceptionally high in 2023 and 2024. A difference-in-differences design compares the change in outcomes after November 25 in these years with the same change in 2017–2022. Weekly calls to the national anti-violence helpline rose by 122 percent after November 25, 2023. The increase was larger among people calling on behalf of a victim (143 percent) than among victims themselves (89 percent). Femicides fell by 62 percent in November and December of the high-attention years, about seven fewer per month nationwide. Both responses fade within three to four months and do not vary significantly with local anti-violence services or regional gender norms. Lasting effects may require attention to be renewed over time.
 
       - name: "When Dads Can't Get on the Beers: The Positive Impact of COVID-19 on Parental Drinking Behaviour"
         coauthors: "with Susan J. Méndez, Susan Sawyer & Julie Moschion"
